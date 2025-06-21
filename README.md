@@ -10,15 +10,19 @@ The system also explores **LLM integration** to convert natural language into ex
 ## 🎥 Demonstrations
 
 **Editor Demo**
+
 ![Editor Demo](Media130SEC.gif)
 
 **Sketch Recognition**
+
 ![Sketch Recognition](Media230SEC.gif)
 
 **Speech Recognitio**
+
 ![Speech Recognition](Media330SEC.gif)
 
 **LLM integration**
+
 ![LLM integration](Media430SEC.gif)
 
 ---
