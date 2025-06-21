@@ -30,7 +30,7 @@ The system also explores **LLM integration** to convert natural language into ex
 ## ✨ Features
 
 - 🧠 **Sketch Classification**:
-  - Trained custom CNNs on the [Quick, Draw!](https://quickdraw.withgoogle.com/data) dataset.
+  - Trained custom models and pretrained models on the [Quick, Draw!](https://quickdraw.withgoogle.com/data) dataset.
   - Compared results with pretrained models from OpenAI and Meta.
 
 - 🗣️ **Speech-to-Command Interface**:
@@ -44,8 +44,7 @@ The system also explores **LLM integration** to convert natural language into ex
   - Drawings are not just pixel-based — each stroke is treated as a manipulable object.
   - Supports complex interactions like selection, grouping, and transformation.
  
-- 🧰 Built with a Rich Python Stack:
-  = Developed using a range of Python libraries including:
+- 🧰 Developed using a range of Python libraries including:
   - PyTorch for training and inference
   - Seaborn for data visualization and debugging
   - PyQt5 for the sketch editor interface
