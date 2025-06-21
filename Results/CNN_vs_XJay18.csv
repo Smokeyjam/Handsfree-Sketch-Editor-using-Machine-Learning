@@ -1,0 +1,22 @@
+Sketch Recognition,ASR Engine,Transcribed Text,Commands,Latency (s)
+XJay18,OpenAI Whisper,reclassify,reclassify,5.41,0
+XJay18,OpenAI Whisper,reclassify,reclassify,5.84,0
+XJay18,OpenAI Whisper,reclassify,reclassify,7.28,0
+XJay18,OpenAI Whisper,reclassify,reclassify,5.47,0
+XJay18,OpenAI Whisper,reclassify,reclassify,8.42,0
+XJay18,OpenAI Whisper,reclassify,reclassify,5.99,0
+XJay18,OpenAI Whisper,reclassify,reclassify,5.37,0
+XJay18,OpenAI Whisper,reclassify,reclassify,8.14,0
+XJay18,OpenAI Whisper,reclassify,reclassify,5.37,0
+XJay18,OpenAI Whisper,reclassify,reclassify,5.43,0
+ViT,OpenAI Whisper,reclassify,reclassify,5.91,1
+ViT,OpenAI Whisper,reclassify,reclassify,7.21,1
+ViT,OpenAI Whisper,reclassify,reclassify,6.65,0
+ViT,OpenAI Whisper,reclassify,reclassify,6.67,0
+ViT,OpenAI Whisper,innovative reclass,reclassify,9.37,0
+ViT,OpenAI Whisper,classify reclassify,reclassify,6.76,0
+ViT,OpenAI Whisper,reclassify,reclassify,6.74,0
+ViT,OpenAI Whisper,reclassify,reclassify,5.87,0
+ViT,OpenAI Whisper,reclassify,reclassify,7.21,0
+ViT,OpenAI Whisper,reclassify,reclassify,6.55,0
+

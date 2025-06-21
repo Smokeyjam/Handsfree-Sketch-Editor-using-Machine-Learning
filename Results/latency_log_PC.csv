@@ -1,0 +1,133 @@
+ASR Engine,Transcribed Text,Commands,Latency (s)
+OpenAI Whisper,spawn,spawn,8.75
+OpenAI Whisper,spoon,,5.57
+OpenAI Whisper,spawn,spawn,8.63
+OpenAI Whisper,spoon,,5.54
+OpenAI Whisper,spawn,spawn,11.04
+OpenAI Whisper,newdrawing,,5.96
+OpenAI Whisper,new drawer,,5.45
+OpenAI Whisper,1011111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111,,7.1
+OpenAI Whisper,new drawing,spawn,10.75
+OpenAI Whisper,drawing,,5.37
+OpenAI Whisper,new drawing,spawn,9.52
+OpenAI Whisper,reclassif,,5.69
+OpenAI Whisper,reclassify,reclassify,5.42
+OpenAI Whisper,reclassify,reclassify,5.34
+OpenAI Whisper,reclassify,reclassify,5.44
+OpenAI Whisper,reclassify,reclassify,5.41
+OpenAI Whisper,recasifo,,5.66
+OpenAI Whisper,reclassify,reclassify,5.35
+OpenAI Whisper,reclassify,reclassify,5.26
+OpenAI Whisper,reclassify,reclassify,5.45
+OpenAI Whisper,reclassify,reclassify,5.35
+OpenAI Whisper,reclassify,reclassify,5.46
+OpenAI Whisper,move right,move_right,5.4
+OpenAI Whisper,move right,move_right,5.35
+OpenAI Whisper,move right,move_right,5.43
+OpenAI Whisper,move right,move_right,5.4
+OpenAI Whisper,move right,move_right,5.34
+OpenAI Whisper,right,,5.42
+OpenAI Whisper,move left,move_left,5.41
+OpenAI Whisper,move left,move_left,5.34
+OpenAI Whisper,of left,,5.48
+OpenAI Whisper,move left,move_left,5.36
+OpenAI Whisper,move left,move_left,5.33
+OpenAI Whisper,move left,move_left,5.43
+OpenAI Whisper,move up,move_up,5.4
+OpenAI Whisper,move up,move_up,5.34
+OpenAI Whisper,up,,5.41
+OpenAI Whisper,using something like this,,5.71
+OpenAI Whisper,move up,move_up,5.33
+OpenAI Whisper,move up,move_up,5.37
+OpenAI Whisper,move down,move_down,5.38
+OpenAI Whisper,move down,move_down,5.39
+OpenAI Whisper,move it down,,5.34
+OpenAI Whisper,move down,move_down,5.43
+OpenAI Whisper,music playing relation with,,5.76
+OpenAI Whisper,move down,move_down,5.29
+OpenAI Whisper,select giraffe,select,5.32
+OpenAI Whisper,select toothbrush,select,5.39
+OpenAI Whisper,select giraffe,select,5.39
+OpenAI Whisper,select toothbrush,select,5.37
+OpenAI Whisper,select giraffe,select,5.28
+OpenAI Whisper,select toothbrush,select,5.64
+OpenAI Whisper,select giraffe,select,5.28
+OpenAI Whisper,select toothbrush,select,5.42
+OpenAI Whisper,select giraffe,select,5.37
+OpenAI Whisper,select toothbrush,select,5.34
+OpenAI Whisper,select giraffe,select,5.43
+OpenAI Whisper,select toothbrush,select,5.28
+OpenAI Whisper,select giraffe,select,5.46
+OpenAI Whisper,teeth brush,,5.5
+OpenAI Whisper,act giraffe,,5.47
+OpenAI Whisper,select toothbrush,select,5.42
+Light Wav2Vec2,unrecognized speech,,5.41
+Light Wav2Vec2,spon,,5.23
+Light Wav2Vec2,spon,,5.15
+Light Wav2Vec2,spone,,5.25
+Light Wav2Vec2,spone,,5.17
+Light Wav2Vec2,unrecognized speech,,5.25
+Light Wav2Vec2,spone,,5.25
+Light Wav2Vec2,new drawring,,5.24
+Light Wav2Vec2,new drawing,spawn,10.14
+Light Wav2Vec2,new drawring,,5.53
+Light Wav2Vec2,new drawing,spawn,9.22
+Light Wav2Vec2,new drawing,spawn,10.47
+Light Wav2Vec2,new corine,,5.48
+Light Wav2Vec2,re cosipir,,5.18
+Light Wav2Vec2,re clacify,,5.25
+Light Wav2Vec2,ree clasify,,5.26
+Light Wav2Vec2,recosiphar,,5.26
+Light Wav2Vec2,recosify,,5.25
+Light Wav2Vec2,re cosiphar,,5.17
+Light Wav2Vec2,re cocifye,,5.25
+Light Wav2Vec2,cotify,,5.24
+Light Wav2Vec2,recocify,,5.25
+Light Wav2Vec2,we crosify,,5.24
+Light Wav2Vec2,reclacifore,,5.17
+Light Wav2Vec2,ecotify,,5.25
+Light Wav2Vec2,class sif fy,,5.24
+Light Wav2Vec2,reclosify,,5.25
+Light Wav2Vec2,mese up,,5.26
+Light Wav2Vec2,mes up,,5.26
+Light Wav2Vec2,muse up,,5.25
+Light Wav2Vec2,is up,,5.17
+Light Wav2Vec2,mes up,,5.25
+Light Wav2Vec2,leave up,,5.25
+Light Wav2Vec2,meeve up,,5.24
+Light Wav2Vec2,ive up,,5.24
+Light Wav2Vec2,meeve up,,5.18
+Light Wav2Vec2,mews left,,5.26
+Light Wav2Vec2,me left,,5.25
+Light Wav2Vec2,bes left,,5.24
+Light Wav2Vec2,is left,,5.25
+Light Wav2Vec2,left,,5.24
+Light Wav2Vec2,yo left,,5.26
+Light Wav2Vec2,moved down,,5.25
+Light Wav2Vec2,live town,,5.25
+Light Wav2Vec2,move down,move_down,5.25
+Light Wav2Vec2,move down,move_down,5.24
+Light Wav2Vec2,move idown,,5.26
+Light Wav2Vec2,news light,,5.19
+Light Wav2Vec2,move right,move_right,5.25
+Light Wav2Vec2,of right,,5.26
+Light Wav2Vec2,if right,,5.24
+Light Wav2Vec2,move right,move_right,5.25
+Light Wav2Vec2,move right,move_right,5.25
+Light Wav2Vec2,select candl,select,5.25
+Light Wav2Vec2,select candu,select,5.18
+Light Wav2Vec2,select crab,select,5.26
+Light Wav2Vec2,select crab,select,5.25
+Light Wav2Vec2,select cactus,select,5.26
+Light Wav2Vec2,select mota bike,select,5.27
+Light Wav2Vec2,select motabike,select,5.23
+Light Wav2Vec2,select meritorbaig,select,5.25
+Light Wav2Vec2,select candle,select,5.17
+Light Wav2Vec2,select cramp,select,5.25
+Light Wav2Vec2,select cactis,select,5.25
+Light Wav2Vec2,select crab,select,5.24
+Light Wav2Vec2,select cacptis,select,5.23
+Custom LSTM ASR,unrecognized speech,,7.72
+Custom LSTM ASR,unrecognized speech,,5.17
+Custom LSTM ASR,unrecognized speech,,5.15
+Custom LSTM ASR,unrecognized speech,,5.17
