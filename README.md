@@ -45,9 +45,13 @@ The system also explores **LLM integration** to convert natural language into ex
   - Supports complex interactions like selection, grouping, and transformation.
  
 - 🧰 Built with a Rich Python Stack:
+
   -Developed using a range of Python libraries including:
+  
     -PyTorch for training and inference
+  
     -Seaborn for data visualization and debugging
+  
     -PyQt5 for the sketch editor interface
 
 ---
