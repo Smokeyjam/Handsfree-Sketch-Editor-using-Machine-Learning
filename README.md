@@ -17,7 +17,7 @@ The system also explores **LLM integration** to convert natural language into ex
 
 ![Sketch Recognition](Media230SEC.gif)
 
-**Speech Recognitio**
+**Speech Recognition**
 
 ![Speech Recognition](Media330SEC.gif)
 
